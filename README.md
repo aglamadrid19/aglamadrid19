@@ -1,4 +1,4 @@
-# Hi! I'm Alvaro Lamadrid!
+# Hi, I'm Alvaro Lamadrid
 
 ## About Me
 
