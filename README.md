@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @aglamadrid19
+Hi, I'm Alvaro Lamadrid
+
 - 👀 I’m interested in Code, Communities, and Blockchain
 - 🌱 I’m currently learning about Ethereum Development and DeFi
 - 💞️ I’m looking to collaborate on OSS
